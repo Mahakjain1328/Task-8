@@ -13,14 +13,11 @@
 - **Slicers**: Filters for Region, Month and Category
 
 ## 🔍 Key Insights
-1. **Maharashtra Leads in Sales**
-   - Top-performing region, followed by Karnataka and Uttar Pradesh.
+1. **Maharashtra Leads in Sales**: Top-performing region, followed by Karnataka and Uttar Pradesh.
 
-2. **Amazon is the Leading Sales Channel**
-   - Responsible for 35.48% of orders.
+2. **Amazon is the Leading Sales Channel**: Responsible for 35.48% of orders.
 
-3. **Seasonal Sales Trends**
-   - Peaks in March and April; dips in October and December.
+3. **Seasonal Sales Trends**: Peaks in March and April; dips in October and December.
 
 ## 📌 Outcome
 Successfully designed a clean, interactive sales dashboard and summarized trends to support data-driven business decisions.
