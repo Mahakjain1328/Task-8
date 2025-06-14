@@ -7,6 +7,7 @@
 - Dataset: Vrinda Store Sales Data 
 
 ## 📈 Dashboard Features
+- **Change order date** to **MonthYear**
 - **Line Chart**: Sales trend over months
 - **Bar Chart**: Sales by region
 - **Donut Chart**: Sales by category
